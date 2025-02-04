@@ -1,4 +1,4 @@
-# My MERN App
+# Students-Result-Portal
 
 This project is a full-stack MERN application that utilizes MongoDB, Express, React, and Node.js. It is structured into two main parts: the backend and the frontend.
 
