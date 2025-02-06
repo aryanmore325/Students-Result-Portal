@@ -2,6 +2,8 @@
 
 This project is a full-stack MERN application that utilizes MongoDB, Express, React, and Node.js. It is structured into two main parts: the backend and the frontend.
 
+Live Url - https://eloquent-kitsune-90f115.netlify.app
+
 ## Project Structure
 
 ```
